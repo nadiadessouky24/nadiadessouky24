@@ -7,7 +7,7 @@
 
 <p align="left">- I am currently learning and working on Machine Learning and Backend Projects.</p> 
 
-<p alight="left"> - My various research intrests include Computer Vision, Quantum Computing, Signal Processing, and Machine Learning. </p> 
+<p alight="left"> - My various research interests include Computer Vision, Quantum Computing, Digital Signal Processing, and Machine Learning. </p> 
 
 
 <h2 align = "left"> 🖥️ Languages and Frameworks </h2>
