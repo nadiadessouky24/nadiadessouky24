@@ -1,22 +1,16 @@
 <h1 align="center">Hello, I'm Nadia Dessouky 👋🏼 </h1>
 
-<br>
-
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nadiadessouky24" alt="nadiadessouky24" /></a> </p>
 
-<br>
+<h2 align= "left"> 👩🏼‍💻 About me</h2>
+<p align="left">- I am a Computer Engineering Student at the American University in Cairo.</p> 
 
-<h3 align= "center"> About me:</h3>
-<p align="left">🔭 I am a Computer Engineering Student at the American University in Cairo.</p> 
+<p align="left">- I am currently learning and working on Machine Learning and Backend Projects.</p> 
 
-<p align="left">🔭 I am currently learning and working on Machine Learning and Backend Development.</p> 
+<p alight="left"> - My various research intrests include Computer Vision, Quantum Computing, Signal Processing, and Machine Learning. </p> 
 
-<br>
-<p alight="left"> 🧪 My various research intrests include Computer Vision, Quantum Computing, Signal Processing, and Machine Learning </p> 
 
-<br>
-
-<h3 align = "left"> 🖥️ Languages and Frameworks </h3>
+<h2 align = "left"> 🖥️ Languages and Frameworks </h2>
 
 <div align  = "center">
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
@@ -59,7 +53,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
 
-<h3 align="left">Stats 📊:</h3>
+<h2 align="left">📈 GitHub Stats</h2>
 
 <div align="center">
 
@@ -68,12 +62,10 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadiadessouky24&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="nadiadessouky24's GitHub Stats" />
 
-
 </div>
 
-<h3 align = "Left">Reach me: <h3>
+<h2 align = "Left"> 🤝 Connect with me <h2>
 
-
-
-
-
+<p align="center">
+<a href="https://www.linkedin.com/in/nadia-dessouky-b5576a21a/"target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamedsherifhazem" height="30" width="40" /></a>
+</p>
