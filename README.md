@@ -67,10 +67,13 @@
 <h2 align = "Left"> 🤝 Connect with me <h2>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/nadia-dessouky-b5576a21a/"target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="nadiadessouky24" height="30" width="40" /></a>
-<a href="mailto:nadiadessouky@aucegypt.edu">
-  <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
+<a href="https://www.linkedin.com/in/yourusername" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" />
 </a>
+<a href="mailto:nadiadessouky@aucegypt.edu">
+  <img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="40" />
+</a>
+
 </p>
 
 
