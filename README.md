@@ -67,5 +67,5 @@
 <h2 align = "Left"> 🤝 Connect with me <h2>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/nadia-dessouky-b5576a21a/"target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamedsherifhazem" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nadia-dessouky-b5576a21a/"target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nadiadessouky24" height="30" width="40" /></a>
 </p>
