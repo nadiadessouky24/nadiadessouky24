@@ -68,7 +68,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yourusername" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" style="margin-right: 15px;" />
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" style="margin-right: 30px;" />
   </a>
   <a href="mailto:nadiadessouky@aucegypt.edu">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="40" />
