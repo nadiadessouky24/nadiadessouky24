@@ -68,7 +68,9 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/nadia-dessouky-b5576a21a/"target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="nadiadessouky24" height="30" width="40" /></a>
-[![Email](https://skillicons.dev/icons?i=gmail)](mailto:nadiadessouky@aucegypt.edu)
+<a href="mailto:nadiadessouky@aucegypt.edu">
+  <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
+</a>
 </p>
 
 
