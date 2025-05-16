@@ -3,7 +3,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nadiadessouky24" alt="nadiadessouky24" /></a> </p>
 
 <h2 align= "left"> 👩🏼‍💻 About me</h2>
-<p align="left">- I am a Computer Engineering Student, specializing in Artificial Intelligence at the American University in Cairo.</p> 
+<p align="left">- I am a Computer Engineering Senior, specializing in Artificial Intelligence at the American University in Cairo.</p> 
 
 <p align="left">- I am currently learning and working on Machine Learning and Backend Projects.</p> 
 
