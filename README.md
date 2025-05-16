@@ -67,7 +67,8 @@
 <h2 align = "Left"> 🤝 Connect with me <h2>
 
 <p align="center">
-  <a href="www.linkedin.com/in/nadia-dessouky-b5576a21a" target="_blank">
+  <a href="www.linkedin.com/in/
+nadia-dessouky-b5576a21a" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" " />
   </a>&nbsp;&nbsp;
   <a href="mailto:nadiadessouky@aucegypt.edu">
